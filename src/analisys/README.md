@@ -56,3 +56,7 @@ This project demonstrates how to train a Named Entity Recognition (NER) model us
 1. Open the `train_ner_model.py` file in a compatible Python environment.
 2. Execute the script to start training the model.
 3. The results will be saved in the `results` folder.
+
+The fine tuning of the model generates checkpoints in each epoch, with this checkpoints it is possible to save de fine-tuned model and then use it to de-identify. However, the size of the file is too big and not suportted for GitHub.
+To access to the following link and add the folder to the main path. 
+Link: https://drive.google.com/file/d/1lcEigNhptkswbWS2BpTfOWD6DXyGfvic/view?usp=sharing
