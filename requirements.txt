@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+accelerate==0.31.0
+datasets==2.20.0
+evaluate==0.4.2
+lxml==5.2.2
+matplotlib==3.9.0
+nltk==3.8.1
+numpy==1.26.4
+Requests==2.32.3
+scikit_learn==1.5.0
+seaborn==0.13.2
+transformers==4.41.2
+=======
+accelerate==0.31.0
+datasets==2.20.0
+evaluate==0.4.2
+lxml==5.2.2
+matplotlib==3.9.0
+nltk==3.8.1
+numpy==1.26.4
+Requests==2.32.3
+scikit_learn==1.5.0
+seaborn==0.13.2
+transformers==4.41.2
+>>>>>>> 89e033aeb52bf60912badcd7c4fe9893d64abfa8
